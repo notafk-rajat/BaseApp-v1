@@ -1,6 +1,10 @@
 # BaseApp-v1
 This is the base version of the app used for evaluating initial metrics. The app includes basic crud operations and other functionalities like login/signup and post/save posts.
-Goal will be to optimize the metrics results of this app adopting various optimization techniques and make it more industry compliant too along the way.
+Goal will be to optimize the metrics results of this app via adopting various optimization techniques and make it more industry compliant too along the way.
+.
+.
+.
+.
 
 Here are initial metrics - 
 
