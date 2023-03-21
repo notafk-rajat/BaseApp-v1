@@ -1,5 +1,5 @@
 # BaseApp-v1
-This is the base version of the app used for evaluating initial metrics.
+This is the base version of the app used for evaluating initial metrics. The app includes basic crud operations and other functionalities like login/signup and post/save posts.
 
 Here are initial metrics - 
 
